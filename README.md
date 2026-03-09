@@ -8,6 +8,11 @@ The rapid spread of COVID-19 created an urgent need for data-driven methods to u
 
 ---
 
+## 📌 Walkthrough Video of Capstone Project Google Drive Link
+
+You can access the project file here:  
+[Download from Google Drive](https://drive.google.com/file/d/1pQsxFf4BtqYV-TUnWVTp9B0zcRNlIj2d/view?usp=drive_link)
+
 # 🎯 Capstone Requirements Mapping
 
 | Requirement          | How it is demonstrated                                                    |
